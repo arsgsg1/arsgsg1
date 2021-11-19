@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://www.notion.so/shpc/6b8a0ced4f504f988e55d814f8ab3f66" target="_blank"><img src="https://img.shields.io/badge/about me-black?style=뱃지모양&logo=Notion&logoColor=white"/></a>
+<a href="https://andrewyun.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-green?style=뱃지모양&logo=Blog&logoColor=white"/></a>
+[![Solved.ac
+arsgsg](http://mazassumnida.wtf/api/mini/generate_badge?boj=arsgsg)](https://solved.ac/arsgsg)
